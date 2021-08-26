@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.197">
+    <testcase classname="feature to test bunnings cart functionality" name="Validate bunnings cart functionality" time="14.074">
+        <system-out><![CDATA[Given browser is open.......................................................passed
+And user is on bunnings "https://www.bunnings.com.au".......................passed
+When user enters text in search box.........................................passed
+And puts click & collect filter.............................................passed
+And Adds item to cart.......................................................passed
+And goes to cart............................................................passed
+Then the item put into cart is present properly.............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
